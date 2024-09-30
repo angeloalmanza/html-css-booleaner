@@ -1,3 +1,15 @@
-body{
-    background-color: green;
+.pattern{
+    background-image: url(../img/pattern.png);
+    background-color:#6495ed;
+    background-size: 350px 175px;
+    height: 90px;
+}
+
+.img{
+    width: 20%;
+    height: 125px;
+}
+
+.booleaner{
+    color: #6495ed;
 }
