@@ -19,5 +19,17 @@
 }
 
 .testo{
-    background-color:yellow;
+    background-color:#ffff00;
+}
+
+.thead{
+    background-color: #6495ed;
+}
+
+th{
+    color: #ffffff;
+}
+
+.line-1-3{
+    background-color:#afeeee;
 }
